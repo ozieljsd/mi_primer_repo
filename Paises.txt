@@ -1,7 +1,8 @@
-Mexico
-Italia
-Alemania
+Mexico		CDMX
+Italia		
+Alemania	Berlin
 Rusia
-Francia
-Bélgica 
-Australia
+Francia		Paris
+Bélgica 	Brucelas
+Australia	Canberra
+Argentina	
