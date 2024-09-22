@@ -8,3 +8,4 @@ Australia	azul
 Argentina	azul
 Peru
 panama
+brasil
