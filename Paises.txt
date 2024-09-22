@@ -7,3 +7,4 @@ Bélgica 	amarillo
 Australia	azul
 Argentina	azul
 Peru
+panama
