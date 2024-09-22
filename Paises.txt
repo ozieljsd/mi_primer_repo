@@ -6,3 +6,4 @@ Francia		rojo
 Bélgica 	amarillo
 Australia	azul
 Argentina	azul
+Peru
