@@ -1,8 +1,8 @@
 Mexico		verde
 Italia		verde
-Alemania	
-Rusia
+Alemania	amarillo
+Rusia		rojo
 Francia		rojo
-Bélgica 	
-Australia	
+Bélgica 	amarillo
+Australia	azul
 Argentina	azul
